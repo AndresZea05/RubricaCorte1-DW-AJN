@@ -5,11 +5,12 @@
     font-style: normal;
 }
 header{
-    
+
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
+
 .Home, .Titulo, .Redes{
     margin: 5% 5% 2% 5%;
 }
